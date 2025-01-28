@@ -18,5 +18,5 @@ Links:
 ======  
 [CS@UH](https://cs.uh.edu)  
 [LinkedIn](https://www.linkedin.com/in/iker-garcia-0505b31b5/)  
-[Resume](https://iker7080.github.io/gitpage4353.github.io/files/)  
+[Resume](https://iker7080.github.io/gitpage4353.github.io/files/CV_IkerGarcia_2025.pdf)  
 
