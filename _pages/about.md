@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![profile pic](https://gitpage4353.github.io/images/pic.png)
+![profile pic](https://iker7080.github.io/gitpage4353.github.io/images/pic.png)
 
 Education
 ======
@@ -18,5 +18,5 @@ Links:
 ======  
 [CS@UH](https://cs.uh.edu)  
 [LinkedIn](https://www.linkedin.com/in/iker-garcia-0505b31b5/)  
-[Resume](https://gitpage4353.github.io/files/CV_IkerGarcia_2025.pdf)  
+[Resume](https://iker7080.github.io/gitpage4353.github.io/files/)  
 
