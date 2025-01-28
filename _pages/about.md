@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![profile pic](https://gitpage4353.github.io/images/pic.jpeg "Profile Pic")
+![profile pic](https://gitpage4353.github.io/images/pic.png "Profile Pic")
 
 Education
 ======
